@@ -5,6 +5,6 @@ public class SkillDemoTester {
     
     @Test 
     public void multiplyBy100Test() {
-        assertEquals(390, SkillDemo.multiplyBy100(4));
+        assertEquals(400, SkillDemo.multiplyBy100(4));
     }
 }
